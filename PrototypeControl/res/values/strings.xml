@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PrototypeControl</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="waterbtn">Water</string>
+    <string name="suctionbtn">Suction</string>
+
+    <color name="black">#000000</color>
+    <color name="blue">#195CBF</color>
+    
+</resources>
